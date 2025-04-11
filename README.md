@@ -112,7 +112,5 @@ const debounce = (fn, delay) => {
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
 **Note:** Ensure you have valid API credentials from [Groq](https://groq.com/) before using this application. API usage may be subject to Groq's terms of service.
 ```
