@@ -8,8 +8,6 @@ Here's a professional README.md for your Code Explainer application:
 
 An AI-powered code explanation tool that helps developers understand code snippets at different expertise levels, powered by Groq and Llama models.
 
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Code+Explainer+Interface) *Add actual screenshot here*
-
 ## Features ✨
 
 - **Multi-Language Support** - Works with any programming language
@@ -118,21 +116,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Note:** Ensure you have valid API credentials from [Groq](https://groq.com/) before using this application. API usage may be subject to Groq's terms of service.
 ```
-
-This README includes:
-1. Badges for quick project status overview
-2. Clear installation instructions
-3. Usage guide with code samples
-4. Configuration details
-5. Examples section with actual code samples from the app
-6. Dependency information
-7. License details
-8. Responsive design elements
-9. Professional formatting with emoji visual cues
-
-You might want to:
-1. Replace placeholder screenshot with actual images
-2. Update repository URLs
-3. Add troubleshooting section if needed
-4. Include contribution guidelines for open-source projects
-5. Add API usage costs disclaimer if applicable
